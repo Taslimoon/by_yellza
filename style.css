@@ -875,6 +875,11 @@ footer { background: var(--charcoal); color: rgba(255,255,255,0.7); padding: 72p
     gap: 24px;
     justify-content: center;
   }
+  .about-text .btn-gold {
+    display: flex;
+    margin: 0 auto;
+    width: max-content;
+  }
   .stat {
     flex: 1 1 40%;
     text-align: center;
